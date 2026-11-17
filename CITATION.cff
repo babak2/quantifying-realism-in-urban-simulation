@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite both the paper and this archive."
+title: "Supporting materials for 'Quantifying Realism in Urban Simulation: An AHP-Based Framework for Model Selection and Evaluation'"
+type: software
+version: "1.0.0"
+date-released: "2026-11-17"
+license: MIT
+repository-code: "https://github.com/babak2/quantifying-realism-in-urban-simulation"
+authors:
+  - family-names: "Mahdavi Ardestani"
+    given-names: "Babak"
+    orcid: "https://orcid.org/0000-0001-7591-3208"
