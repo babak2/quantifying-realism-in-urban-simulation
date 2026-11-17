@@ -1,11 +1,11 @@
 
-# Quantifying Realism in Urban Simulation: supporting materials
+# Quantifying Realism in Urban Simulation (Supporting Materials)
 
 This repository holds the supporting materials for:
 
 > Babak Mahdavi Ardestani (2026). *Quantifying Realism in Urban Simulation: An AHP-Based Framework for Model Selection and Evaluation.* Journal of Artificial Societies and Social Simulation, [volume(issue)]. [DOI of the published paper]
 
-Archive (all versions): [Zenodo DOI]
+Archive (all versions): [10.5281/zenodo.24325770](https://doi.org/10.5281/zenodo.24325770)
 
 The framework in the paper compares simulation models on *structural realism* across four dimensions: Generative Mechanisms, Spatial Representation, Empirical Data Integration and Empirical Validation, using the Analytic Hierarchy Process (AHP). This is demonstrated on five residential segregation models. Please keep in mind that the scores are structured assessments made under stated criteria, evidence and judgements. They are not direct measurements of realism.
 
@@ -15,10 +15,10 @@ The framework in the paper compares simulation models on *structural realism* ac
 |---|---|
 | `Independent_Assessment_Guide.pdf` | The guide sent to the independent assessors. It describes the five models, sets out the evidence for each dimension, and explains how to make the pairwise comparisons. Reproduced in Appendix A of the paper. |
 | `Independent_Assessment_Form.docx` | The blank electronic form the assessors used to record their pairwise judgements (Appendix A). |
-| `replication_script.py` | Reproduces the numerical results in the paper from the pairwise comparison matrice. |
+| `replication_script.py` | Reproduces the numerical results in the paper from the pairwise comparison matrices. |
 | `figures/` | Bubble plots of the local priorities (see below). |
 
-Completed assessor forms are not shared, to protect anonymity. The judgements themselves are given in full as matrices in Appendix C of the paper and in `replication_script.py`, labelled Assessor 1–3 with no link to individuals.
+Completed assessor forms are not shared to protect anonymity. The judgements themselves are given in full as matrices in Appendix C of the paper and in `replication_script.py`, labelled Assessor 1–3 with no link to individuals.
 
 ## Reproducing the results
 
@@ -44,7 +44,7 @@ Each figure plots the five models by their local priorities on Generative Mechan
 
 ![Assessors 1-3](figures/fig_assessors.png)
 
-Note that the figures show local priorities only. Overall rankings also depend on the weights each assessor gave to the dimensions, which differ between the baseline and the panel, see Tables 2 and 3 and Appendix D of the paper.
+Note that the figures show local priorities only. Overall rankings also depend on the weights each assessor gave to the dimensions, which differ between the baseline and the panel; see Tables 2 and 3 and Appendix D of the paper.
 
 
 ## Status
@@ -57,7 +57,7 @@ Supporting materials for a paper accepted for publication in the Journal of Arti
 If you use these materials, please cite both the paper and this archive:
 
 - Paper: Mahdavi Areestani, B. (2026). Quantifying Realism in Urban Simulation: An AHP-Based Framework for Model Selection and Evaluation. Journal of Artificial Societies and Social Simulation, [volume(issue)]. https://doi.org/[paper DOI]
-- Archive: Mahdavi Areestani, B. (2026). Supporting materials for "Quantifying Realism in Urban Simulation: An AHP-Based Framework for Model Selection and Evaluation" [Computer software and documents]. Zenodo. [Zenodo DOI]
+- Archive: Mahdavi Areestani, B. (2026). Supporting materials for "Quantifying Realism in Urban Simulation: An AHP-Based Framework for Model Selection and Evaluation" [Computer software and documents]. Zenodo. https://doi.org/10.5281/zenodo.24325770
 
 The archive DOI resolves to the latest version. GitHub's "Cite this repository" button gives a ready-made citation from `CITATION.cff`.
 
