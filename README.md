@@ -56,8 +56,8 @@ Supporting materials for a paper accepted for publication in the Journal of Arti
 
 If you use these materials, please cite both the paper and this archive:
 
-- Paper: Mahdavi Areestani, B. (2026). Quantifying Realism in Urban Simulation: An AHP-Based Framework for Model Selection and Evaluation. Journal of Artificial Societies and Social Simulation, [volume(issue)]. https://doi.org/[paper DOI]
-- Archive: Mahdavi Areestani, B. (2026). Supporting materials for "Quantifying Realism in Urban Simulation: An AHP-Based Framework for Model Selection and Evaluation" [Computer software and documents]. Zenodo. https://doi.org/10.5281/zenodo.24325770
+- Paper: Mahdavi Ardestani, B. (2026). Quantifying Realism in Urban Simulation: An AHP-Based Framework for Model Selection and Evaluation. Journal of Artificial Societies and Social Simulation, [volume(issue)]. https://doi.org/[paper DOI]
+- Archive: Mahdavi Ardestani, B. (2026). Supporting materials for "Quantifying Realism in Urban Simulation: An AHP-Based Framework for Model Selection and Evaluation" [Computer software and documents]. Zenodo. https://doi.org/10.5281/zenodo.24325770
 
 The archive DOI resolves to the latest version. GitHub's "Cite this repository" button gives a ready-made citation from `CITATION.cff`.
 
